@@ -1,0 +1,22 @@
+<script id="hello">
+    alert("welcome to fast food court")
+</script>
+<img>
+<hr size="6" color="black">
+<marquee bgcolor="blue"><font face="impact" size="5" color="red"> krishna FOOD COURT 🍖</font></marquee>
+<marquee direction="right" scrollamount="15" bgcolor="blue"><font face="mistral" size="4" color=green >urs favourite foods are available here</font></marquee>
+<hr size="5" color="red">
+
+<header>
+   <h2>Online Food Delivery</h2>6
+   
+    <nav> 
+        <ul>
+            <li> <a href="#">home</a></li>
+            <li><a href="#">about</a></li>
+            <li><a href="#">menu</a></li>
+            <li><a href="#">contact</a></li>
+            <li><a href="#">login</a></li>
+        </ul>
+    </nav>
+</header>
